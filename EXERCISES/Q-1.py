@@ -1,0 +1,6 @@
+a=int(input("Enter a number a:"))
+b=int(input("Enter a number b:"))
+c=int(input("Enter a number c:"))
+d=int(input("Enter a number d:"))
+e=int(input("Enter a number e:"))
+print("Average of the given numbers is", (a+b+c+d+e)/5)
